@@ -78,6 +78,11 @@
       <sprite>sprites\spr_mmoverlay</sprite>
       <sprite>sprites\spr_tutorial</sprite>
       <sprite>sprites\spr_arrow2</sprite>
+      <sprite>sprites\spr_toucharrowright</sprite>
+      <sprite>sprites\spr_toucharrowup</sprite>
+      <sprite>sprites\spr_toucharrowdown</sprite>
+      <sprite>sprites\spr_toucharrowleft</sprite>
+      <sprite>sprites\spr_touchboost</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
